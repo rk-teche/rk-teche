@@ -6,7 +6,7 @@ I have a strong understanding of Git and Bitbucket for version control and have 
 My passion for writing code extends beyond just making life easier, but it is a way of crafting elegant solutions that leave a lasting impact.
 
 
-<!-- <p align="center"><img src="https://github.com/monk1337/monk1337/blob/master/node_update_.gif"> </p> -->
+<p align="center"><img src="./nodejs.gif"> </p>
 
 <!--
 **monk1337/monk1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
