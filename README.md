@@ -20,7 +20,7 @@ My passion for writing code extends beyond just making life easier, but it is a 
     <li>
         <b>Portfolio</b> - <a href="https://bit.ly/3KHQ9fY" target="_blank"></a> https://bit.ly/3KHQ9fY</li>
     <li>
-        <b>Email</b> - <a href="mailto:prompts.eng@gmail.com" target="_blank"></a> prompts.eng@gmail.com</li>
+        <b>Email</b> - <a href="mailto:prompts.eng@gmail.com"></a> prompts.eng@gmail.com</li>
 </ul>
 
 
