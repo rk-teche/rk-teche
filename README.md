@@ -8,6 +8,15 @@ My passion for writing code extends beyond just making life easier, but it is a 
 
 <p align="center"><img src="./nodejs.gif"> </p>
 
+Social Media links -
+LinkedIn - https://bit.ly/3MucFKv
+Github - https://bit.ly/rk-tech
+Medium - https://bit.ly/3MtbeMv
+Youtube - https://bit.ly/41f4Lsn
+Twitter - https://bit.ly/3MwydpN
+Portfolio - https://bit.ly/3KHQ9fY
+Email - prompts.eng@gmail.com
+
 <!--
 **monk1337/monk1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
