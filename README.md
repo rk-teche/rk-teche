@@ -5,17 +5,36 @@ I have a strong understanding of Git and Bitbucket for version control and have 
 
 My passion for writing code extends beyond just making life easier, but it is a way of crafting elegant solutions that leave a lasting impact.
 
+<h3>Social Media links -</h3>
+<ul>
+    <li>
+        <b>LinkedIn</b> - https://bit.ly/3MucFKv
+    </li>
+    <li>
+        <b>Github</b> - https://bit.ly/rk-tech
+    </li>
+    <li>
+        <b>Medium</b> - https://bit.ly/3MtbeMv
+    </li>
+    <li>
+        <b>Youtube</b> - https://bit.ly/41f4Lsn
+    </li>
+    <li>
+        <b>Twitter</b> - https://bit.ly/3MwydpN
+    </li>
+    <li>
+        <b>Portfolio</b> - https://bit.ly/3KHQ9fY
+    </li>
+    <li>
+        <b>Email</b> - prompts.eng@gmail.com
+    </li>
+</ul>
+
+
+
 
 <p align="center"><img src="./nodejs.gif"> </p>
 
-Social Media links -
-LinkedIn - https://bit.ly/3MucFKv
-Github - https://bit.ly/rk-tech
-Medium - https://bit.ly/3MtbeMv
-Youtube - https://bit.ly/41f4Lsn
-Twitter - https://bit.ly/3MwydpN
-Portfolio - https://bit.ly/3KHQ9fY
-Email - prompts.eng@gmail.com
 
 <!--
 **monk1337/monk1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
