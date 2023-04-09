@@ -8,27 +8,21 @@ My passion for writing code extends beyond just making life easier, but it is a 
 <h3>Social Media links -</h3>
 <ul>
     <li>
-        <b>LinkedIn</b> - https://bit.ly/3MucFKv
-    </li>
+        <b>LinkedIn</b> - <a href="https://bit.ly/3MucFKv" target="_blank"></a> https://bit.ly/3MucFKv</li>
     <li>
-        <b>Github</b> - https://bit.ly/rk-tech
-    </li>
+        <b>Github</b> - <a href="https://bit.ly/rk-tech" target="_blank"></a> https://bit.ly/rk-tech</li>
     <li>
-        <b>Medium</b> - https://bit.ly/3MtbeMv
-    </li>
+        <b>Medium</b> - <a href="https://bit.ly/3MtbeMv" target="_blank"></a> https://bit.ly/3MtbeMv</li>
     <li>
-        <b>Youtube</b> - https://bit.ly/41f4Lsn
-    </li>
+        <b>Youtube</b> - <a href="https://bit.ly/41f4Lsn" target="_blank"></a> https://bit.ly/41f4Lsn</li>
     <li>
-        <b>Twitter</b> - https://bit.ly/3MwydpN
-    </li>
+        <b>Twitter</b> - <a href="https://bit.ly/3MwydpN" target="_blank"></a> https://bit.ly/3MwydpN</li>
     <li>
-        <b>Portfolio</b> - https://bit.ly/3KHQ9fY
-    </li>
+        <b>Portfolio</b> - <a href="https://bit.ly/3KHQ9fY" target="_blank"></a> https://bit.ly/3KHQ9fY</li>
     <li>
-        <b>Email</b> - prompts.eng@gmail.com
-    </li>
+        <b>Email</b> - <a href="mailto:prompts.eng@gmail.com" target="_blank"></a> prompts.eng@gmail.com</li>
 </ul>
+
 
 
 
