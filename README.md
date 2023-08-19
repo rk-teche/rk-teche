@@ -10,7 +10,7 @@ My passion for writing code extends beyond just making life easier, but it is a 
         <b>LinkedIn</b> - <a href="https://bit.ly/3MucFKv" target="_blank"></a> https://bit.ly/3MucFKv</li>
         <b>Medium</b> - <a href="https://bit.ly/3MtbeMv" target="_blank"></a> https://bit.ly/3MtbeMv</li>
     <li>
-        <b>Leetcode</b> - <a href="https://leetcode.com/rk-tech/" target="_blank"></a>
+        <b>Leetcode</b> - <a href="https://leetcode.com/rk-tech/" target="_blank">https://leetcode.com/rk-tech/</a>
 </ul>
 
 
