@@ -4,21 +4,6 @@ I have a strong understanding of Git and Bitbucket for version control and have 
 
 My passion for writing code extends beyond just making life easier, but it is a way of crafting elegant solutions that leave a lasting impact.
 
-Tech stack -
-❖ Angular/React
-❖ CSS/SCSS/Bootstrap/Tailwind
-❖ Git/Bitbucket
-
-Programming Fundamentals -
-❖ Data structure and Algorithm
-❖ Design Patterns/SOLID Principles
-❖ Modular architecture
-
-
-Social Media links -
-Github - https://bit.ly/rk-tech
-Medium - https://bit.ly/3MtbeMv
-Leetcode - https://leetcode.com/rk-tech/
 
 <ul>
     <li>
