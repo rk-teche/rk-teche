@@ -1,4 +1,4 @@
-Hi there 👋, and welcome to my Github home! I’m Rahul, a Javascript Architect. My technical expertise includes proficiency in Angular and React with a solid foundation in Data Structures and Algorithms, as well as Design Patterns and SOLID Principles, I have a keen eye for developing modular architecture and ensuring the longevity of my code.
+Hi there 👋, and welcome to my Github home! I’m Rahul, a Software Architect. My technical expertise includes proficiency in Angular, React NodeJS with a solid foundation in Data Structures and Algorithms, as well as Design Patterns and SOLID Principles, I have a keen eye for developing modular architecture and ensuring the longevity of my code.
 
 I have a strong understanding of Git and Bitbucket for version control and have experience in deploying CD/CI pipelines using Jenkins, Docker.
 
