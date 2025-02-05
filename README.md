@@ -6,21 +6,24 @@ I have deep expertise in software development, leveraging modern frontend framew
 🌩️ Cloud & DevOps
 Proficient in Google Cloud Platform (GCP) for designing scalable and distributed applications. I integrate CI/CD pipelines using Jenkins, Docker, and Kubernetes, Terraform, ensuring smooth and automated deployments.
 
+<h3>📊 Tech Stack</h3>
+<ul>
+    <li><b>✅ Frontend</b> - React, Angular, TypeScript</li>
+    <li><b>✅ Backend</b> - Node.js, Python</li>
+    <li><b>✅ Databases</b> - SQL (PostgreSQL, MySQL), NoSQL (MongoDB, Firestore)</li>
+    <li><b>✅ Cloud & DevOps</b> - GCP (Cloud Functions, Pub/Sub, BigQuery, GKE), Docker, Kubernetes, Jenkins</li>
+    <li><b>✅ Architecture</b> - Microservices, Event-driven, Modular Design</li>
+    <li><b>✅ Data & ETL</b> - BigQuery, Apache Beam, Dataflow</li>
+</ul>
 
-📊 Tech Stack
-✅ Frontend: React, Angular, TypeScript
-✅ Backend: Node.js, Python
-✅ Databases: SQL (PostgreSQL, MySQL), NoSQL (MongoDB, Firestore)
-✅ Cloud & DevOps: GCP (Cloud Functions, Pub/Sub, BigQuery, GKE), Docker, Kubernetes, Jenkins
-✅ Architecture: Microservices, Event-driven, Modular Design
-✅ Data & ETL: BigQuery, Apache Beam, Dataflow
-
-🎯 Key Strengths
-🚀 Scalable Cloud-Native Architecture on GCP
-🛠 Microservices & API Design
-🔍 Data Engineering & ETL Workflows
-🧠 Design Patterns, SOLID Principles
-💡 Optimizing Performance & Reliability
+<h3>🎯 Key Strengths</h3>
+<ul>
+    <li>🚀 <b>Scalable Cloud-Native Architecture</b> on GCP</li>
+    <li>🛠 <b>Microservices & API Design</b></li>
+    <li>🔍 <b>Data Engineering & ETL Workflows</b></li>
+    <li>🧠 <b>Design Patterns, SOLID Principles</b></li>
+    <li>💡 <b>Optimizing Performance & Reliability</b></li>
+</ul>
 
 I love solving complex engineering challenges and mentoring teams to build future-proof applications. Let’s connect and discuss how technology can drive innovation! 🤝
 
