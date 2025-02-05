@@ -1,8 +1,28 @@
-Hi there 👋, and welcome to my Github home! I’m Rahul, a Software Architect. My technical expertise includes proficiency in Angular, React NodeJS with a solid foundation in Data Structures and Algorithms, as well as Design Patterns and SOLID Principles, I have a keen eye for developing modular architecture and ensuring the longevity of my code.
+Hi there 👋, and welcome to my Github home! I’m Rahul, a Software Architect passionate about designing and building scalable, high-performance systems that drive innovation. With 8+ years of experience in software development, specialize in architecting cloud-native solutions using Google Cloud Platform (GCP) while ensuring modular, efficient, and maintainable code.
 
-I have a strong understanding of Git and Bitbucket for version control and have experience in deploying CD/CI pipelines using Jenkins, Docker.
+🏗️ Tech Expertise
+I have deep expertise in software development, leveraging modern frontend frameworks (React, Angular) and robust backend architectures (Node.js, Python). My experience spans RESTful API design, microservices, and high-availability cloud deployments.
 
-My passion for writing code extends beyond just making life easier, but it is a way of crafting elegant solutions that leave a lasting impact.
+🌩️ Cloud & DevOps
+Proficient in Google Cloud Platform (GCP) for designing scalable and distributed applications. I integrate CI/CD pipelines using Jenkins, Docker, and Kubernetes, Terraform, ensuring smooth and automated deployments.
+
+
+📊 Tech Stack
+✅ Frontend: React, Angular, TypeScript
+✅ Backend: Node.js, Python
+✅ Databases: SQL (PostgreSQL, MySQL), NoSQL (MongoDB, Firestore)
+✅ Cloud & DevOps: GCP (Cloud Functions, Pub/Sub, BigQuery, GKE), Docker, Kubernetes, Jenkins
+✅ Architecture: Microservices, Event-driven, Modular Design
+✅ Data & ETL: BigQuery, Apache Beam, Dataflow
+
+🎯 Key Strengths
+🚀 Scalable Cloud-Native Architecture on GCP
+🛠 Microservices & API Design
+🔍 Data Engineering & ETL Workflows
+🧠 Design Patterns, SOLID Principles
+💡 Optimizing Performance & Reliability
+
+I love solving complex engineering challenges and mentoring teams to build future-proof applications. Let’s connect and discuss how technology can drive innovation! 🤝
 
 
 <ul>
