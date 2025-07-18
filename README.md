@@ -1,4 +1,4 @@
-Hi there 👋, and welcome to my Github home! I’m Rahul, a Software Architect passionate about designing and building scalable, high-performance systems that drive innovation. With 9.5+ years of experience in software development, specialize in architecting cloud-native solutions using Google Cloud Platform (GCP) while ensuring modular, efficient, and maintainable code.
+Hi there 👋, and welcome to my Github home! I’m Rahul, a Software Engineer passionate about designing and building scalable, high-performance systems that drive innovation. With 10+ years of experience in software development, specialize in architecting cloud-native solutions using Google Cloud Platform (GCP) while ensuring modular, efficient, and maintainable code.
 
 🏗️ Tech Expertise
 I have deep expertise in software development, leveraging modern frontend frameworks (React, Angular) and robust backend architectures (Node.js, Python). My experience spans RESTful API design, microservices, and high-availability cloud deployments.
@@ -12,7 +12,7 @@ Proficient in Google Cloud Platform (GCP) for designing scalable and distributed
     <li><b>✅ Backend</b> - Node.js, Python</li>
     <li><b>✅ Databases</b> - SQL (PostgreSQL, MySQL), NoSQL (MongoDB, Firestore)</li>
     <li><b>✅ Cloud & DevOps</b> - GCP (Cloud Functions, Pub/Sub, BigQuery, GKE), Docker, Kubernetes, Jenkins</li>
-    <li><b>✅ Architecture</b> - Microservices, Event-driven, Modular Design</li>
+    <li><b>✅ Architecture</b> - Microservices, Micro-frontend Event-driven, Modular Design</li>
     <li><b>✅ Data & ETL</b> - BigQuery, Apache Beam, Dataflow</li>
 </ul>
 
